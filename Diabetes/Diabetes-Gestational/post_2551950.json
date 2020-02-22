@@ -1,0 +1,95 @@
+{
+  "POST": [
+    {
+      "POST_LINK": "https://medhelp.org/posts/Diabetes---Gestational/Anyone-have-problems-with-1-hour-glucose/show/2551950"
+    },
+    {
+      "USER_NAME": "Newlymomma25"
+    },
+    {
+      "USER_PROFILE_LINK": "https://medhelp.org/personal_pages/user/12987300"
+    },
+    {
+      "POST_TITLE": "Anyone have problems with 1 hour glucose"
+    },
+    {
+      "POST_BODY": "I had my one hour glucose appointment today and I'm literally beyond thirsty\u00a0\u00a0all day I feel as though I can drink the river dry ! Don't know why I feel this way :'("
+    },
+    {
+      "POST_DATE": "2015-04-16T19:28:28-05:00"
+    },
+    {
+      "POST_ID": "2551950"
+    },
+    {
+      "RESPONSES": [
+        {
+          "RESPONSE": [
+            {
+              "USER_NAME": "caregiver222"
+            },
+            {
+              "USER_PROFILE_LINK": "https://medhelp.org/personal_pages/user/144586"
+            },
+            {
+              "RESPONSE_BODY": "Thirst is a hallmark of diabetes. Before the development of insulin diabetic patients would crave gallons of milk and water a day. When there is insufficient insulin the body starts using an alternative to bring glucose levels down. It doesn't work very well, but requires a great deal of fluid to wash out the glucose. This, in turn, causes thirst."
+            },
+            {
+              "RESPONSE_DATE": "2015-04-17T12:33:50-05:00"
+            },
+            {
+              "RESPONSE_ID": "12430889"
+            },
+            {
+              "COMMENTS": []
+            }
+          ]
+        },
+        {
+          "RESPONSE": [
+            {
+              "USER_NAME": "Newlymomma25"
+            },
+            {
+              "USER_PROFILE_LINK": "https://medhelp.org/personal_pages/user/12987300"
+            },
+            {
+              "RESPONSE_BODY": "Seriously I drank so much yesterday that I thought I was going to suffocate from the inside ! Do you know how long it usually takes for blood results ?"
+            },
+            {
+              "RESPONSE_DATE": "2015-04-17T17:06:06-05:00"
+            },
+            {
+              "RESPONSE_ID": "12432861"
+            },
+            {
+              "COMMENTS": []
+            }
+          ]
+        },
+        {
+          "RESPONSE": [
+            {
+              "USER_NAME": "Super_sally888"
+            },
+            {
+              "USER_PROFILE_LINK": "https://medhelp.org/personal_pages/user/231441"
+            },
+            {
+              "RESPONSE_BODY": "If you are pregnant and concerned with possible diabetes, you need to see your health provider asap.\u00a0\u00a0Uncontrolled blood sugar can be very damaging to your baby.\n\nYou could also buy a home meter from a chemist.\u00a0\u00a0Fastiung blood sugar should be < 95 (ideally in the low 80s), and post eating < 120 (ideally below 100).\n\nDepends on the lab for how long it takes to get blood test results back.\n\nIn the meantime, avoid sugars and limit carbs.\u00a0\u00a0\n\nLet us know."
+            },
+            {
+              "RESPONSE_DATE": "2015-04-19T20:24:45-05:00"
+            },
+            {
+              "RESPONSE_ID": "12447968"
+            },
+            {
+              "COMMENTS": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

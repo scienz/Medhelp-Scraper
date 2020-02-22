@@ -1,0 +1,95 @@
+{
+  "POST": [
+    {
+      "POST_LINK": "https://medhelp.org/posts/Diabetes---Gestational/gestational-diabetes/show/2455758"
+    },
+    {
+      "USER_NAME": "Dada_85"
+    },
+    {
+      "USER_PROFILE_LINK": "https://medhelp.org/personal_pages/user/12009020"
+    },
+    {
+      "POST_TITLE": "gestational diabetes?"
+    },
+    {
+      "POST_BODY": "So yesterday i did my diabetes screening and was called in today by doctors for results. Doctor said i have to take a 3 hour test. What should i expect from this test? Doctor said results should be below 129, and mine was 156. Should i worry? Is my baby at risk? I'm so confused..."
+    },
+    {
+      "POST_DATE": "2015-02-04T19:49:27-06:00"
+    },
+    {
+      "POST_ID": "2455758"
+    },
+    {
+      "RESPONSES": [
+        {
+          "RESPONSE": [
+            {
+              "USER_NAME": "Brittjay"
+            },
+            {
+              "USER_PROFILE_LINK": "https://medhelp.org/personal_pages/user/11986507"
+            },
+            {
+              "RESPONSE_BODY": "Just fast the night before up until the test. I failed both test 150 but I had been eating horrible the last two months. If you change your eating habits now to when you give birth you should be fine."
+            },
+            {
+              "RESPONSE_DATE": "2015-02-04T21:50:33-06:00"
+            },
+            {
+              "RESPONSE_ID": "11944185"
+            },
+            {
+              "COMMENTS": []
+            }
+          ]
+        },
+        {
+          "RESPONSE": [
+            {
+              "USER_NAME": "jenniferlorene3"
+            },
+            {
+              "USER_PROFILE_LINK": "https://medhelp.org/personal_pages/user/11186692"
+            },
+            {
+              "RESPONSE_BODY": "I failed the one hour one with a 142, but I passed the 3 hour one. Make sure you don't drink or eat anything at least 12 hours for your appointment. It's very similar to the one hour one, they just take your blood 4 times instead of once. They do it once when you get there and then once every hour for 3 hours. Don't stress about it until you get the results from the 3 hour test :)"
+            },
+            {
+              "RESPONSE_DATE": "2015-02-08T00:17:09-06:00"
+            },
+            {
+              "RESPONSE_ID": "11963311"
+            },
+            {
+              "COMMENTS": []
+            }
+          ]
+        },
+        {
+          "RESPONSE": [
+            {
+              "USER_NAME": "jenniferlorene3"
+            },
+            {
+              "USER_PROFILE_LINK": "https://medhelp.org/personal_pages/user/11186692"
+            },
+            {
+              "RESPONSE_BODY": "And even if you fail the 3 hour test you just have to see a special doctor to watch your diet so you eat better. Your baby is not in danger don't worry."
+            },
+            {
+              "RESPONSE_DATE": "2015-02-08T00:18:37-06:00"
+            },
+            {
+              "RESPONSE_ID": "11963321"
+            },
+            {
+              "COMMENTS": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

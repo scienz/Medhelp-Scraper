@@ -1,0 +1,115 @@
+{
+  "POST": [
+    {
+      "POST_LINK": "https://medhelp.org/posts/Diabetes---Gestational/Elivated-lipase/show/3049731"
+    },
+    {
+      "USER_NAME": "Saguayo"
+    },
+    {
+      "USER_PROFILE_LINK": "https://medhelp.org/personal_pages/user/20888325"
+    },
+    {
+      "POST_TITLE": "Elivated lipase"
+    },
+    {
+      "POST_BODY": "Question I found out elivated levels of lipase at 203. I have been having on and off nausea but no vomiting. I had pain in my upper right rib area and sometimes in my back. It went away. They tested me for h pylori and it was negative. Also a ultrasound of the upper abdomen showed nothing, no stones. What can this be?"
+    },
+    {
+      "POST_DATE": "2019-10-05T18:31:03-05:00"
+    },
+    {
+      "POST_ID": "3049731"
+    },
+    {
+      "RESPONSES": [
+        {
+          "RESPONSE": [
+            {
+              "USER_NAME": "Sara_MHModerator"
+            },
+            {
+              "USER_PROFILE_LINK": "https://medhelp.org/personal_pages/user/15695260"
+            },
+            {
+              "RESPONSE_BODY": "Hello and welcome to the forum.\u00a0\u00a0We appreciate your question.\u00a0\u00a0Elevated lipase can be associated with gastroenteritis which you may have had based on nausea you describe. If your stomach lining is irritated, you can have elevated lipase.\u00a0\u00a0https://www.medicalnewstoday.com/articles/322201.php\u00a0\u00a0You could also have your symptoms and pancreatitis and have elevated lipase.\u00a0\u00a0Sometimes a bland diet will help such as the brat diet.\u00a0\u00a0This is banana, rice, applesauce, and toast. Lipase can stay elevated for a couple of weeks after a bout of gastroenteritis or pancreatitis. How long has it been?"
+            },
+            {
+              "RESPONSE_DATE": "2019-10-06T06:28:54-05:00"
+            },
+            {
+              "RESPONSE_ID": "14453033"
+            },
+            {
+              "COMMENTS": [
+                {
+                  "COMMENT": [
+                    {
+                      "USER_NAME": "Saguayo"
+                    },
+                    {
+                      "USER_PROFILE_LINK": "https://medhelp.org/personal_pages/user/20888325"
+                    },
+                    {
+                      "COMMENT_BODY": "Hello so I did a ct scan last week and they found a 2cm cyst on my pancreas. I have been having really bad nausea in the morning and just not feeling well. Can a pancreas cyst make you feel this way. Gi wants to do mri to see what kind of cyst it is and how to treat it."
+                    },
+                    {
+                      "COPMMENT_DATE": ""
+                    },
+                    {
+                      "COMMENT_ID": "14454258"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "RESPONSE": [
+            {
+              "USER_NAME": "Rosiecont"
+            },
+            {
+              "USER_PROFILE_LINK": "https://medhelp.org/personal_pages/user/20703499"
+            },
+            {
+              "RESPONSE_BODY": "In order to prevent the rise of lipase, you should pay attention to your diet in daily life, do not eat fried foods, also do not eat foods with high fat content. It is best to eat some fresh fruits and vegetables, and you can change your eating habits according to the specific situation."
+            },
+            {
+              "RESPONSE_DATE": "2019-10-07T20:04:24-05:00"
+            },
+            {
+              "RESPONSE_ID": "14453233"
+            },
+            {
+              "COMMENTS": []
+            }
+          ]
+        },
+        {
+          "RESPONSE": [
+            {
+              "USER_NAME": "CHIN_C"
+            },
+            {
+              "USER_PROFILE_LINK": "https://medhelp.org/personal_pages/user/20890188"
+            },
+            {
+              "RESPONSE_BODY": "Elevated lipase, especially when more than 3x the reference range, is suspicious for pancreatitis (difficult to see on ultrasound). Differential diagnosis of pancreatic cyst includes pseudocyst (in the setting of pancreatitis), sidebranch IPMN, or serous or mucinous cystic neoplasm. MRI/MRCP, as suggested by your GI doc, can help to further characterize."
+            },
+            {
+              "RESPONSE_DATE": "2019-11-18T18:53:11-06:00"
+            },
+            {
+              "RESPONSE_ID": "14458712"
+            },
+            {
+              "COMMENTS": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

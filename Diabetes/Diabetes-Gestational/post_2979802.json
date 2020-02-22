@@ -1,0 +1,73 @@
+{
+  "POST": [
+    {
+      "POST_LINK": "https://medhelp.org/posts/Diabetes---Gestational/In-regards-to-glucose-levels/show/2979802"
+    },
+    {
+      "USER_NAME": "TheWiseSun"
+    },
+    {
+      "USER_PROFILE_LINK": "https://medhelp.org/personal_pages/user/20360328"
+    },
+    {
+      "POST_TITLE": "In regards to glucose levels?"
+    },
+    {
+      "POST_BODY": "Every site seems to have different ranges for what is normal and abnormal with fasting or non-fasting levels. I am somewhat confused, last night before bedtime 5.5 hrs after my meal, I had one cup of soda or Dr. Pepper. Do you think that is pre diabetes or Diabetes type 2 if it was at 154 mg/dl or does it not count? I was also diagnosed pre diabetic of 108 mg/dl, fasting all day 3 weeks back. This morning before breakfast it was 70 mg/dl. Is that normal?"
+    },
+    {
+      "POST_DATE": "2017-05-29T07:25:10-05:00"
+    },
+    {
+      "POST_ID": "2979802"
+    },
+    {
+      "RESPONSES": [
+        {
+          "RESPONSE": [
+            {
+              "USER_NAME": "Covfefe"
+            },
+            {
+              "USER_PROFILE_LINK": "https://medhelp.org/personal_pages/user/20380640"
+            },
+            {
+              "RESPONSE_BODY": "There are several ways you can diagnose diabetes. Your level last night after one cup of soda is more representative of a random blood glucose. A random glucose of >200mg/dL with symptoms of diabetes is diagnostic of Type 2 Diabetes. Therefore, from that one measure, you do not have Type 2 Diabetes.\n\nHowever, your fasting sugar is within the pre-diabetic range.\n\nAre you pregnant? You posted in the gestation diabetes section which is diabetes within pregnancy.\n\nHope that helps!"
+            },
+            {
+              "RESPONSE_DATE": "2017-06-03T21:39:52-05:00"
+            },
+            {
+              "RESPONSE_ID": "14193976"
+            },
+            {
+              "COMMENTS": []
+            }
+          ]
+        },
+        {
+          "RESPONSE": [
+            {
+              "USER_NAME": "TheWiseSun"
+            },
+            {
+              "USER_PROFILE_LINK": "https://medhelp.org/personal_pages/user/20360328"
+            },
+            {
+              "RESPONSE_BODY": "Whoops sorry no I am not pregnant. Okay that makes sense."
+            },
+            {
+              "RESPONSE_DATE": "2017-06-03T22:30:47-05:00"
+            },
+            {
+              "RESPONSE_ID": "14193997"
+            },
+            {
+              "COMMENTS": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

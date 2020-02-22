@@ -1,0 +1,71 @@
+{
+  "POST": [
+    {
+      "POST_LINK": "https://medhelp.org/posts/Diabetes---Gestational/Giving-birth-in-the-summer--/show/2983069"
+    },
+    {
+      "USER_NAME": "purple1234567"
+    },
+    {
+      "USER_PROFILE_LINK": "https://medhelp.org/personal_pages/user/5536886"
+    },
+    {
+      "POST_TITLE": "Giving birth in the summer?"
+    },
+    {
+      "POST_BODY": "I was just reading that there is a new risk for gestational diabetes that they think they have identified- being exposed to hot temperatures a month before giving birth.\u00a0\u00a0\n\nhttp://www.cnn.com/2017/05/25/health/summer-pregnancy-gestational-diabetes-partner/index.html\n\nWhen are you due?\u00a0\u00a0Do you think hot temperatures a month before giving birth is really a risk factor?"
+    },
+    {
+      "POST_DATE": "2017-06-19T17:15:26-05:00"
+    },
+    {
+      "POST_ID": "2983069"
+    },
+    {
+      "RESPONSES": [
+        {
+          "RESPONSE": [
+            {
+              "USER_NAME": "Super_sally888"
+            },
+            {
+              "USER_PROFILE_LINK": "https://medhelp.org/personal_pages/user/231441"
+            },
+            {
+              "RESPONSE_BODY": "Maybe people eat more sweets and fruits in the summer?\u00a0\u00a0Just a guess.\u00a0\u00a0I would think this is correlation rather than causation."
+            },
+            {
+              "RESPONSE_DATE": "2017-06-21T06:06:56-05:00"
+            },
+            {
+              "RESPONSE_ID": "14204680"
+            },
+            {
+              "COMMENTS": [
+                {
+                  "COMMENT": [
+                    {
+                      "USER_NAME": "purple1234567"
+                    },
+                    {
+                      "USER_PROFILE_LINK": "https://medhelp.org/personal_pages/user/5536886"
+                    },
+                    {
+                      "COMMENT_BODY": "Oh that's a thought- ice cream is definitely a bigger thing in the summer and all those fresh fruits are in season."
+                    },
+                    {
+                      "COPMMENT_DATE": ""
+                    },
+                    {
+                      "COMMENT_ID": "14221151"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

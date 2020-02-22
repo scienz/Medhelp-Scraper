@@ -1,0 +1,95 @@
+{
+  "POST": [
+    {
+      "POST_LINK": "https://medhelp.org/posts/Diabetes---Gestational/gestational-diabetes/show/2896710"
+    },
+    {
+      "USER_NAME": "mommyKassy"
+    },
+    {
+      "USER_PROFILE_LINK": "https://medhelp.org/personal_pages/user/18652942"
+    },
+    {
+      "POST_TITLE": "gestational diabetes?"
+    },
+    {
+      "POST_BODY": "19 weeks prego and i have gestational diabetes my sugar keeps getting low even if i have a sugary snack am i the only one what should i do"
+    },
+    {
+      "POST_DATE": "2016-06-22T22:17:28-05:00"
+    },
+    {
+      "POST_ID": "2896710"
+    },
+    {
+      "RESPONSES": [
+        {
+          "RESPONSE": [
+            {
+              "USER_NAME": "FireB13"
+            },
+            {
+              "USER_PROFILE_LINK": "https://medhelp.org/personal_pages/user/18691936"
+            },
+            {
+              "RESPONSE_BODY": "You need to eat more protein and carbs to help keep your sugar up. Have you seen a diatician yet?"
+            },
+            {
+              "RESPONSE_DATE": "2016-06-27T08:24:50-05:00"
+            },
+            {
+              "RESPONSE_ID": "13916457"
+            },
+            {
+              "COMMENTS": []
+            }
+          ]
+        },
+        {
+          "RESPONSE": [
+            {
+              "USER_NAME": "Super_sally888"
+            },
+            {
+              "USER_PROFILE_LINK": "https://medhelp.org/personal_pages/user/231441"
+            },
+            {
+              "RESPONSE_BODY": "Eat protein, fats and some complex carbs.\u00a0\u00a0These should help keep your sugar levels stable.\u00a0\u00a0 Sweets make your sugar high and then it will possibly drop low, so it is best to avoid and / or strictly limit sweets."
+            },
+            {
+              "RESPONSE_DATE": "2016-11-07T05:25:07-06:00"
+            },
+            {
+              "RESPONSE_ID": "14049398"
+            },
+            {
+              "COMMENTS": []
+            }
+          ]
+        },
+        {
+          "RESPONSE": [
+            {
+              "USER_NAME": "KarenHohimer"
+            },
+            {
+              "USER_PROFILE_LINK": "https://medhelp.org/personal_pages/user/19536697"
+            },
+            {
+              "RESPONSE_BODY": "Agreed about eating complex carbs (think whole grains) rather than simple carbs! The fiber will help release that sugar more slowly. \nAnd keep some carbs with you at all times. Try crackers with peanut butter for a quick snack--the combo of fat-protein-carb should help."
+            },
+            {
+              "RESPONSE_DATE": "2016-11-20T11:28:44-06:00"
+            },
+            {
+              "RESPONSE_ID": "14060256"
+            },
+            {
+              "COMMENTS": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
