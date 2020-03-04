@@ -13,7 +13,7 @@
       "POST_TITLE": "Gestational diabetes :("
     },
     {
-      "POST_BODY": "I'm heart broken just found out I have gestational diabetes!\nAnyone else on the same boat? What are you doing different to get better?"
+      "POST_BODY": "I'm heart broken just found out I have gestational diabetes!\rAnyone else on the same boat? What are you doing different to get better?"
     },
     {
       "POST_DATE": "2015-12-08T21:43:03-06:00"
@@ -112,7 +112,7 @@
                       "USER_PROFILE_LINK": "https://medhelp.org/personal_pages/user/231441"
                     },
                     {
-                      "COMMENT_BODY": "Fasting blood sugar is typically measured (and the target is < 95, though ideally in the 70s - 80s, and then 1.5 - 2 hours after each meal, where the target is to be < 120. \n\nIf you are on insulin, the testing will be more frequent and will also include before meals, and at bedtime.\u00a0\u00a0Ie. at least 8 times a day."
+                      "COMMENT_BODY": "Fasting blood sugar is typically measured (and the target is < 95, though ideally in the 70s - 80s, and then 1.5 - 2 hours after each meal, where the target is to be < 120. \r\rIf you are on insulin, the testing will be more frequent and will also include before meals, and at bedtime.\u00a0\u00a0Ie. at least 8 times a day."
                     },
                     {
                       "COPMMENT_DATE": ""
@@ -135,7 +135,7 @@
               "USER_PROFILE_LINK": "https://medhelp.org/personal_pages/user/13946798"
             },
             {
-              "RESPONSE_BODY": "Thanks!\nHow long were you guys monitored for?"
+              "RESPONSE_BODY": "Thanks!\rHow long were you guys monitored for?"
             },
             {
               "RESPONSE_DATE": "2015-12-08T23:26:07-06:00"
