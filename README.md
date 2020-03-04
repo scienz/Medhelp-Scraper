@@ -15,11 +15,15 @@ Third-party libraries used:
 Example directory structure:
 <pre>
 Diabetes/Diabetes-Gestational/post.html
+                             /post.csv
                              /post_1867426.html
                              /post_1867426.json
                              ...
         /Diabetes-Type1/...
 </pre>
+<hr>
+The csv file contains the post link, number of answers, and number of comments
+for each post in post.html.
 <hr>
 The JSON file structure:
 <pre>
