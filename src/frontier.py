@@ -29,10 +29,16 @@ def build():
             for a in element.xpath('.//div[@class="forums_link"]//a'):
                 map = dict()
                 group_title = elim_space(a.text_content())
-                create_dir(normalize_path_name(title) + "\\" + normalize_path_name(group_title))
-                map[(normalize_path_name(title), normalize_path_name(group_title))] = INITIAL_URL + a.attrib['href']
+                create_dir(normalize_path_name(title) + "/" + normalize_path_name(group_title))
+                map[(normalize_path_name(title), normalize_path_name(group_title))] = _build_link(a.attrib['href'])
                 res.append(map)
     return res
+
+def _build_link(link):
+  if "www." in link:
+    return link
+  else:
+    return INITIAL_URL + link
 
 # For test only
 if __name__ == "__main__":

@@ -32,7 +32,7 @@ def get_fp(name, mode):
     return open(path, mode)
 
 def normalize_path_name(name):
-    chars = '\/:*?"<>|'
+    chars = '\/:*?"<>|\''
     for c in chars:
         name = name.replace(c, '')
     return name

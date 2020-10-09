@@ -29,6 +29,8 @@ def get_post_link(url, driver_path = None):
             yield link
     driver.quit()
 
+# F:\\ChromeDriver\\chromedriver.exe
+# /usr/local/bin/chromedriver
 def get_scrolled_page(url, driver_path = "F:\\ChromeDriver\\chromedriver.exe"):
     script = _get_script()
     driver = _config_driver(url, driver_path)
@@ -36,7 +38,7 @@ def get_scrolled_page(url, driver_path = "F:\\ChromeDriver\\chromedriver.exe"):
     pageLen = driver.execute_script(script)
     while (True):
         lastLen = pageLen
-        time.sleep(4)
+        time.sleep(2.5)
         pageLen = driver.execute_script(script)
         if lastLen == pageLen:
             break
@@ -47,9 +49,10 @@ def get_scrolled_page(url, driver_path = "F:\\ChromeDriver\\chromedriver.exe"):
 
 # url: lnks the scroll-able page returned from the frontier
 # driver_path: the path to the chrome driver
-def _config_driver(url, driver_path = "F:\\ChromeDriver\\chromedriver.exe"):
+def _config_driver(url, driver_path = "/usr/local/bin/chromedriver"):
     options = Options()
     options.add_argument('--headless')
+    options.add_argument('--log-level=3')
     driver = webdriver.Chrome(
         executable_path= driver_path,
         options= options)
